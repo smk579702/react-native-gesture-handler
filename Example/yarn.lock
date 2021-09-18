@@ -7162,9 +7162,10 @@ react-native-vector-icons@5.0.0:
     prop-types "^15.5.10"
     yargs "^8.0.2"
 
-react-native-web@^0.10.0-alpha.3:
-  version "0.10.0-alpha.3"
-  resolved "https://registry.yarnpkg.com/react-native-web/-/react-native-web-0.10.0-alpha.3.tgz#c3eae23eb3f8d39746153d9fb593795853305879"
+react-native-web@^0.10.0:
+  version "0.10.1"
+  resolved "https://registry.yarnpkg.com/react-native-web/-/react-native-web-0.10.1.tgz#94a8a4b0a18fd03cf5d75fb41f87bd8c3ded753f"
+  integrity sha512-Mpjx7nFPyH3W/BSaEqLWlG0rqqSfG/St+ri/heRXRyZZOl4IoS/2GDhKDJinojHUCgm2BdmvNqN53zWupiU6eQ==
   dependencies:
     array-find-index "^1.0.2"
     create-react-class "^15.6.2"
